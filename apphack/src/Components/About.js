@@ -16,7 +16,7 @@ const About = () => {
         With AshaCare, you can find work  happening near you in real-time based on wards.
         </p>
         <p className="primary-text">
-        Our personalized event search provides customized recommendations based on your interests and search history.
+        Our personalized dashbord  provides customized easy way to schedule andtrack patients.
         </p>
         <div className="about-buttons-container">
           <button className="secondary-button">Learn More</button>

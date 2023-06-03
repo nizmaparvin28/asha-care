@@ -17,7 +17,7 @@ const Testimonial = () => {
         <img src={ProfilePic} alt="" />
         <p>
         “AshaCare has made it so much easier for me 
-        to discover new events in my area. 
+        to work  in my area. 
         Highly recommended!”  
         </p>
         <div className="testimonials-stars-container">

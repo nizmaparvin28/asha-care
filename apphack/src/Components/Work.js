@@ -9,17 +9,17 @@ const Work = () => {
     {
       image: "ProfilePic",
       title: "Schedule the patients   ",
-      text: "With Gather, you can find events happening near you in real-time based on your location.",
+      text: "Easy and clean scheduling of patients to be attended, when, where and how?.",
     },
     {
       image: "ProfilePic",
       title: "Surveying made easy",
-      text: "Our personalized event search provides customized recommendations based on your interests and search history.",
+      text: " Helps to access and store surveyed details.",
     },
     {
       image: "",
       title: "Keep history tracker of patients",
-      text: "Keep track of events you've attended and those you plan to attend with our event history tracker in your profile.",
+      text: "Easy access to patients history - details of illness, medicines provided etc",
     },
     
   ];
